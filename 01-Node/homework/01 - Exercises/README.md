@@ -137,7 +137,7 @@ _DATE_ imprimirá la fecha actual de tu máquina.
 
 1. Completa la función `date`. Esta recibirá por parámetro el valor "print".
 2. Utiliza la función `print`. Como argumento pásale la función `Date` siendo ejecutada.
-
+ 
 ---
 
 <br />
