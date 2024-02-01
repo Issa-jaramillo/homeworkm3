@@ -91,7 +91,7 @@ describe("01 | Ejercicios", () => {
       expect(response2.status).toBeLessThan(500);
       expect(response2.body).toEqual({
         error:
-          "No existe ninguna publicación con dicho título y autor indicado",
+          "No existe ninguna publicación con dicho título y autor indicado"
       });
     }
   });
